@@ -1,1 +1,1 @@
-# imdb-api-ve-async-await-kullanarak-film-bilgilerini-getirme
+# Getting movie information using imdb api and async-await
